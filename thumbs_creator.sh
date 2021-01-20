@@ -28,7 +28,7 @@ case $file in
 		git commit -m "$commit"
 		git push origin master
 		id=`git rev-parse HEAD`
-		for i in $(git show --pretty="" --name-only $id|grep -E "plugins/|app/")
+		for i in $(git show --pretty="" --name-only $id|grep -E "plugins/")
 		do
 			read -p "是否更新 ${i} 缓存?[y/n]" update
 			case $update in

@@ -2,36 +2,39 @@
 ### 点击小图标可跳转至模板下载页面  /  Click on the thumbnail to access the plugin  
 当前共有 [19] 个模板 / Here are [19] plugins now    
 ## Apple  
-<a href="https://cdn.jsdelivr.net/gh/lihaoyun6/capXDR-plugins/plugins/iMac27.zip"><img src="./iMac27.jpg" alt="iMac27" width="128" /></a>
-<a href="https://cdn.jsdelivr.net/gh/lihaoyun6/capXDR-plugins/plugins/iMacPro.zip"><img src="./iMacPro.jpg" alt="iMacPro" width="128" /></a>
+<a href="https://cdn.jsdelivr.net/gh/lihaoyun6/capXDR-plugins/plugins/Apple iMac.zip"><img src="./Apple iMac.jpg" alt="Apple iMac" width="128" /></a>
+<a href="https://cdn.jsdelivr.net/gh/lihaoyun6/capXDR-plugins/plugins/Apple MBA13.zip"><img src="./Apple MBA13.jpg" alt="Apple MBA13" width="128" /></a>
+<a href="https://cdn.jsdelivr.net/gh/lihaoyun6/capXDR-plugins/plugins/Apple rMBA13 K.zip"><img src="./Apple rMBA13 K.jpg" alt="Apple rMBA13 K" width="128" /></a>
+<a href="https://cdn.jsdelivr.net/gh/lihaoyun6/capXDR-plugins/plugins/Apple rMBA13.zip"><img src="./Apple rMBA13.jpg" alt="Apple rMBA13" width="128" /></a>
+<a href="https://cdn.jsdelivr.net/gh/lihaoyun6/capXDR-plugins/plugins/Apple rMBP16 K(anim).zip"><img src="./Apple rMBP16 K(anim).jpg" alt="Apple rMBP16 K(anim)" width="128" /></a>
+<a href="https://cdn.jsdelivr.net/gh/lihaoyun6/capXDR-plugins/plugins/Apple rMBP16 K+T.zip"><img src="./Apple rMBP16 K+T.jpg" alt="Apple rMBP16 K+T" width="128" /></a>
+<a href="https://cdn.jsdelivr.net/gh/lihaoyun6/capXDR-plugins/plugins/Apple rMBP16 K.zip"><img src="./Apple rMBP16 K.jpg" alt="Apple rMBP16 K" width="128" /></a>
+<a href="https://cdn.jsdelivr.net/gh/lihaoyun6/capXDR-plugins/plugins/Apple rMBP16.zip"><img src="./Apple rMBP16.jpg" alt="Apple rMBP16" width="128" /></a>
 
-<a href="https://cdn.jsdelivr.net/gh/lihaoyun6/capXDR-plugins/plugins/rMBP16-K(Gary).zip"><img src="./rMBP16-K(Gary).jpg" alt="rMBP16-K(Gary)" width="128" /></a>
-<a href="https://cdn.jsdelivr.net/gh/lihaoyun6/capXDR-plugins/plugins/rMBP16-K.zip"><img src="./rMBP16-K.jpg" alt="rMBP16-K" width="128" /></a>
-<a href="https://cdn.jsdelivr.net/gh/lihaoyun6/capXDR-plugins/plugins/rMBP16(Gray).zip"><img src="./rMBP16(Gray).jpg" alt="rMBP16(Gray)" width="128" /></a>
-<a href="https://cdn.jsdelivr.net/gh/lihaoyun6/capXDR-plugins/plugins/rMBP16.zip"><img src="./rMBP16.jpg" alt="rMBP16" width="128" /></a>
-
-<a href="https://cdn.jsdelivr.net/gh/lihaoyun6/capXDR-plugins/plugins/rMBA13-K(Gold).zip"><img src="./rMBA13-K(Gold).jpg" alt="rMBA13-K(Gold)" width="128" /></a>
-<a href="https://cdn.jsdelivr.net/gh/lihaoyun6/capXDR-plugins/plugins/rMBA13-K(Gray).zip"><img src="./rMBA13-K(Gray).jpg" alt="rMBA13-K(Gray)" width="128" /></a>
-<a href="https://cdn.jsdelivr.net/gh/lihaoyun6/capXDR-plugins/plugins/rMBA13-K.zip"><img src="./rMBA13-K.jpg" alt="rMBA13-K" width="128" /></a>
-<a href="https://cdn.jsdelivr.net/gh/lihaoyun6/capXDR-plugins/plugins/rMBA13(Gold).zip"><img src="./rMBA13(Gold).jpg" alt="rMBA13(Gold)" width="128" /></a>
-<a href="https://cdn.jsdelivr.net/gh/lihaoyun6/capXDR-plugins/plugins/rMBA13(Gray).zip"><img src="./rMBA13(Gray).jpg" alt="rMBA13(Gray)" width="128" /></a>
-<a href="https://cdn.jsdelivr.net/gh/lihaoyun6/capXDR-plugins/plugins/rMBA13.zip"><img src="./rMBA13.jpg" alt="rMBA13" width="128" /></a>
-<a href="https://cdn.jsdelivr.net/gh/lihaoyun6/capXDR-plugins/plugins/MBA13.zip"><img src="./MBA13.jpg" alt="MBA13" width="128" /></a>
+<a href="https://cdn.jsdelivr.net/gh/lihaoyun6/capXDR-plugins/plugins/iPad Air4.zip"><img src="./iPad Air4.jpg" alt="iPad Air4" width="128" /></a>
+<a href="https://cdn.jsdelivr.net/gh/lihaoyun6/capXDR-plugins/plugins/iPad Pro K+P.zip"><img src="./iPad Pro K+P.jpg" alt="iPad Pro K+P" width="128" /></a>
+<a href="https://cdn.jsdelivr.net/gh/lihaoyun6/capXDR-plugins/plugins/iPad Pro.zip"><img src="./iPad Pro.jpg" alt="iPad Pro" width="128" /></a>
+<a href="https://cdn.jsdelivr.net/gh/lihaoyun6/capXDR-plugins/plugins/iPad Pro12.9 K+P.zip"><img src="./iPad Pro12.9 K+P.jpg" alt="iPad Pro12.9 K+P" width="128" /></a>
+<a href="https://cdn.jsdelivr.net/gh/lihaoyun6/capXDR-plugins/plugins/iPhone SE2.zip"><img src="./iPhone SE2.jpg" alt="iPhone SE2" width="128" /></a>
+<a href="https://cdn.jsdelivr.net/gh/lihaoyun6/capXDR-plugins/plugins/iPhone12 Pro Max.zip"><img src="./iPhone12 Pro Max.jpg" alt="iPhone12 Pro Max" width="128" /></a>
+<a href="https://cdn.jsdelivr.net/gh/lihaoyun6/capXDR-plugins/plugins/iPhone12 Pro.zip"><img src="./iPhone12 Pro.jpg" alt="iPhone12 Pro" width="128" /></a>
+<a href="https://cdn.jsdelivr.net/gh/lihaoyun6/capXDR-plugins/plugins/iPhone12 mini.zip"><img src="./iPhone12 mini.jpg" alt="iPhone12 mini" width="128" /></a>
+<a href="https://cdn.jsdelivr.net/gh/lihaoyun6/capXDR-plugins/plugins/iPhone12.zip"><img src="./iPhone12.jpg" alt="iPhone12" width="128" /></a>
+<a href="https://cdn.jsdelivr.net/gh/lihaoyun6/capXDR-plugins/plugins/iWatch Series6.zip"><img src="./iWatch Series6.jpg" alt="iWatch Series6" width="128" /></a>
 
 ## Dell
-<a href="https://cdn.jsdelivr.net/gh/lihaoyun6/capXDR-plugins/plugins/Dell-UP3218K.zip"><img src="./Dell-UP3218K.jpg" alt="Dell-UP3218K" width="128" /></a>
-<a href="https://cdn.jsdelivr.net/gh/lihaoyun6/capXDR-plugins/plugins/Dell-P2715Q.zip"><img src="./Dell-P2715Q.jpg" alt="Dell-P2715Q" width="128" /></a>
-<a href="https://cdn.jsdelivr.net/gh/lihaoyun6/capXDR-plugins/plugins/XPS15.zip"><img src="./XPS15.jpg" alt="XPS15" width="128" /></a>
+<a href="https://cdn.jsdelivr.net/gh/lihaoyun6/capXDR-plugins/plugins/Dell P2715Q.zip"><img src="./Dell P2715Q.jpg" alt="Dell P2715Q" width="128" /></a>
+<a href="https://cdn.jsdelivr.net/gh/lihaoyun6/capXDR-plugins/plugins/Dell UP3218K.zip"><img src="./Dell UP3218K.jpg" alt="Dell UP3218K" width="128" /></a>
+<a href="https://cdn.jsdelivr.net/gh/lihaoyun6/capXDR-plugins/plugins/Dell XPS15.zip"><img src="./Dell XPS15.jpg" alt="Dell XPS15" width="128" /></a>
 
 ## LG
-<a href="https://cdn.jsdelivr.net/gh/lihaoyun6/capXDR-plugins/plugins/LG-Ultrafine5K.zip"><img src="./LG-Ultrafine5K.jpg" alt="LG-Ultrafine5K" width="128" /></a>
-<a href="https://cdn.jsdelivr.net/gh/lihaoyun6/capXDR-plugins/plugins/LG-34WK95U.zip"><img src="./LG-34WK95U.jpg" alt="LG-34WK95U" width="128" /></a>
+<a href="https://cdn.jsdelivr.net/gh/lihaoyun6/capXDR-plugins/plugins/LG 34WK95U.zip"><img src="./LG 34WK95U.jpg" alt="LG 34WK95U" width="128" /></a>
+<a href="https://cdn.jsdelivr.net/gh/lihaoyun6/capXDR-plugins/plugins/LG Ultrafine 5K.zip"><img src="./LG Ultrafine 5K.jpg" alt="LG Ultrafine 5K" width="128" /></a>
 
 ## Lenovo
-<a href="https://cdn.jsdelivr.net/gh/lihaoyun6/capXDR-plugins/plugins/Lenovo-Air14IML.zip"><img src="./Lenovo-Air14IML.jpg" alt="Lenovo-Air14IML" width="128" /></a>
-<a href="https://cdn.jsdelivr.net/gh/lihaoyun6/capXDR-plugins/plugins/Lenovo-Air14IML(Gold).zip"><img src="./Lenovo-Air14IML(Gold).jpg" alt="Lenovo-Air14IML(Gold)" width="128" /></a>
-<a href="https://cdn.jsdelivr.net/gh/lihaoyun6/capXDR-plugins/plugins/Lenovo-Pro13IML.zip"><img src="./Lenovo-Pro13IML.jpg" alt="Lenovo-Pro13IML" width="128" /></a>
+<a href="https://cdn.jsdelivr.net/gh/lihaoyun6/capXDR-plugins/plugins/Lenovo Air14IML K.zip"><img src="./Lenovo Air14IML K.jpg" alt="Lenovo Air14IML K" width="128" /></a>
+<a href="https://cdn.jsdelivr.net/gh/lihaoyun6/capXDR-plugins/plugins/Lenovo Pro13IML K.zip"><img src="./Lenovo Pro13IML K.jpg" alt="Lenovo Pro13IML K" width="128" /></a>
 
 ## Other
-<a href="https://cdn.jsdelivr.net/gh/lihaoyun6/capXDR-plugins/plugins/Asus-TUF6.zip"><img src="./Asus-TUF6.jpg" alt="Asus-TUF6" width="128" /></a>
-<a href="https://cdn.jsdelivr.net/gh/lihaoyun6/capXDR-plugins/plugins/OMEN-4P.zip"><img src="./OMEN-4P.jpg" alt="OMEN-4P" width="128" /></a>
+<a href="https://cdn.jsdelivr.net/gh/lihaoyun6/capXDR-plugins/plugins/Asus TUF6.zip"><img src="./Asus TUF6.jpg" alt="Asus TUF6" width="128" /></a>
+<a href="https://cdn.jsdelivr.net/gh/lihaoyun6/capXDR-plugins/plugins/HP OMEN4 Plus K.zip"><img src="./HP OMEN4 Plus K.jpg" alt="HP OMEN4 Plus K" width="128" /></a>

@@ -3,7 +3,6 @@
 ****  
 
 [Apple MBA13](https://cdn.jsdelivr.net/gh/lihaoyun6/capXDR-plugins/plugins/Apple MBA13.zip)  
-[Apple Watch Series6](https://cdn.jsdelivr.net/gh/lihaoyun6/capXDR-plugins/plugins/Apple Watch Series6.zip)  
 [Apple iMac](https://cdn.jsdelivr.net/gh/lihaoyun6/capXDR-plugins/plugins/Apple iMac.zip)  
 [Apple rMBA13 K](https://cdn.jsdelivr.net/gh/lihaoyun6/capXDR-plugins/plugins/Apple rMBA13 K.zip)  
 [Apple rMBA13](https://cdn.jsdelivr.net/gh/lihaoyun6/capXDR-plugins/plugins/Apple rMBA13.zip)  
@@ -29,3 +28,4 @@
 [iPhone12 Pro](https://cdn.jsdelivr.net/gh/lihaoyun6/capXDR-plugins/plugins/iPhone12 Pro.zip)  
 [iPhone12 mini](https://cdn.jsdelivr.net/gh/lihaoyun6/capXDR-plugins/plugins/iPhone12 mini.zip)  
 [iPhone12](https://cdn.jsdelivr.net/gh/lihaoyun6/capXDR-plugins/plugins/iPhone12.zip)  
+[iWatch Series6](https://cdn.jsdelivr.net/gh/lihaoyun6/capXDR-plugins/plugins/iWatch Series6.zip)  

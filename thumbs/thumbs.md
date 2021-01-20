@@ -3,7 +3,6 @@
 ****  
 
 <a href="https://cdn.jsdelivr.net/gh/lihaoyun6/capXDR-plugins/plugins/Apple MBA13.zip"><img src="./Apple MBA13.jpg" alt="Apple MBA13" width="128" /></a>
-<a href="https://cdn.jsdelivr.net/gh/lihaoyun6/capXDR-plugins/plugins/Apple Watch Series6.zip"><img src="./Apple Watch Series6.jpg" alt="Apple Watch Series6" width="128" /></a>
 <a href="https://cdn.jsdelivr.net/gh/lihaoyun6/capXDR-plugins/plugins/Apple iMac.zip"><img src="./Apple iMac.jpg" alt="Apple iMac" width="128" /></a>
 <a href="https://cdn.jsdelivr.net/gh/lihaoyun6/capXDR-plugins/plugins/Apple rMBA13 K.zip"><img src="./Apple rMBA13 K.jpg" alt="Apple rMBA13 K" width="128" /></a>
 <a href="https://cdn.jsdelivr.net/gh/lihaoyun6/capXDR-plugins/plugins/Apple rMBA13.zip"><img src="./Apple rMBA13.jpg" alt="Apple rMBA13" width="128" /></a>
@@ -29,3 +28,4 @@
 <a href="https://cdn.jsdelivr.net/gh/lihaoyun6/capXDR-plugins/plugins/iPhone12 Pro.zip"><img src="./iPhone12 Pro.jpg" alt="iPhone12 Pro" width="128" /></a>
 <a href="https://cdn.jsdelivr.net/gh/lihaoyun6/capXDR-plugins/plugins/iPhone12 mini.zip"><img src="./iPhone12 mini.jpg" alt="iPhone12 mini" width="128" /></a>
 <a href="https://cdn.jsdelivr.net/gh/lihaoyun6/capXDR-plugins/plugins/iPhone12.zip"><img src="./iPhone12.jpg" alt="iPhone12" width="128" /></a>
+<a href="https://cdn.jsdelivr.net/gh/lihaoyun6/capXDR-plugins/plugins/iWatch Series6.zip"><img src="./iWatch Series6.jpg" alt="iWatch Series6" width="128" /></a>
