@@ -3,18 +3,21 @@
 当前共有 [19] 个模板 / Here are [19] plugins now    
 ## Apple  
 <a href="https://cdn.jsdelivr.net/gh/lihaoyun6/capXDR-plugins/plugins/Apple iMac.zip"><img src="./Apple iMac.jpg" alt="Apple iMac" width="128" /></a>
-<a href="https://cdn.jsdelivr.net/gh/lihaoyun6/capXDR-plugins/plugins/Apple MBA13.zip"><img src="./Apple MBA13.jpg" alt="Apple MBA13" width="128" /></a>
-<a href="https://cdn.jsdelivr.net/gh/lihaoyun6/capXDR-plugins/plugins/Apple rMBA13 K.zip"><img src="./Apple rMBA13 K.jpg" alt="Apple rMBA13 K" width="128" /></a>
-<a href="https://cdn.jsdelivr.net/gh/lihaoyun6/capXDR-plugins/plugins/Apple rMBA13.zip"><img src="./Apple rMBA13.jpg" alt="Apple rMBA13" width="128" /></a>
-<a href="https://cdn.jsdelivr.net/gh/lihaoyun6/capXDR-plugins/plugins/Apple rMBP16 K(anim).zip"><img src="./Apple rMBP16 K(anim).jpg" alt="Apple rMBP16 K(anim)" width="128" /></a>
-<a href="https://cdn.jsdelivr.net/gh/lihaoyun6/capXDR-plugins/plugins/Apple rMBP16 K+T.zip"><img src="./Apple rMBP16 K+T.jpg" alt="Apple rMBP16 K+T" width="128" /></a>
-<a href="https://cdn.jsdelivr.net/gh/lihaoyun6/capXDR-plugins/plugins/Apple rMBP16 K.zip"><img src="./Apple rMBP16 K.jpg" alt="Apple rMBP16 K" width="128" /></a>
-<a href="https://cdn.jsdelivr.net/gh/lihaoyun6/capXDR-plugins/plugins/Apple rMBP16.zip"><img src="./Apple rMBP16.jpg" alt="Apple rMBP16" width="128" /></a>
 
+<a href="https://cdn.jsdelivr.net/gh/lihaoyun6/capXDR-plugins/plugins/Apple MBA13.zip"><img src="./Apple MBA13.jpg" alt="Apple MBA13" width="128" /></a>
+<a href="https://cdn.jsdelivr.net/gh/lihaoyun6/capXDR-plugins/plugins/Apple rMBA13.zip"><img src="./Apple rMBA13.jpg" alt="Apple rMBA13" width="128" /></a>
+<a href="https://cdn.jsdelivr.net/gh/lihaoyun6/capXDR-plugins/plugins/Apple rMBA13 K.zip"><img src="./Apple rMBA13 K.jpg" alt="Apple rMBA13 K" width="128" /></a>
+
+<a href="https://cdn.jsdelivr.net/gh/lihaoyun6/capXDR-plugins/plugins/Apple rMBP16.zip"><img src="./Apple rMBP16.jpg" alt="Apple rMBP16" width="128" /></a>
+<a href="https://cdn.jsdelivr.net/gh/lihaoyun6/capXDR-plugins/plugins/Apple rMBP16 K.zip"><img src="./Apple rMBP16 K.jpg" alt="Apple rMBP16 K" width="128" /></a>
+<a href="https://cdn.jsdelivr.net/gh/lihaoyun6/capXDR-plugins/plugins/Apple rMBP16 K+T.zip"><img src="./Apple rMBP16 K+T.jpg" alt="Apple rMBP16 K+T" width="128" /></a>
+<a href="https://cdn.jsdelivr.net/gh/lihaoyun6/capXDR-plugins/plugins/Apple rMBP16 K(anim).zip"><img src="./Apple rMBP16 K(anim).jpg" alt="Apple rMBP16 K(anim)" width="128" /></a>
+
+<a href="https://cdn.jsdelivr.net/gh/lihaoyun6/capXDR-plugins/plugins/iPad Pro.zip"><img src="./iPad Pro.jpg" alt="iPad Pro" width="128" /></a>
 <a href="https://cdn.jsdelivr.net/gh/lihaoyun6/capXDR-plugins/plugins/iPad Air4.zip"><img src="./iPad Air4.jpg" alt="iPad Air4" width="128" /></a>
 <a href="https://cdn.jsdelivr.net/gh/lihaoyun6/capXDR-plugins/plugins/iPad Pro K+P.zip"><img src="./iPad Pro K+P.jpg" alt="iPad Pro K+P" width="128" /></a>
-<a href="https://cdn.jsdelivr.net/gh/lihaoyun6/capXDR-plugins/plugins/iPad Pro.zip"><img src="./iPad Pro.jpg" alt="iPad Pro" width="128" /></a>
 <a href="https://cdn.jsdelivr.net/gh/lihaoyun6/capXDR-plugins/plugins/iPad Pro12.9 K+P.zip"><img src="./iPad Pro12.9 K+P.jpg" alt="iPad Pro12.9 K+P" width="128" /></a>
+
 <a href="https://cdn.jsdelivr.net/gh/lihaoyun6/capXDR-plugins/plugins/iPhone SE2.zip"><img src="./iPhone SE2.jpg" alt="iPhone SE2" width="128" /></a>
 <a href="https://cdn.jsdelivr.net/gh/lihaoyun6/capXDR-plugins/plugins/iPhone12 Pro Max.zip"><img src="./iPhone12 Pro Max.jpg" alt="iPhone12 Pro Max" width="128" /></a>
 <a href="https://cdn.jsdelivr.net/gh/lihaoyun6/capXDR-plugins/plugins/iPhone12 Pro.zip"><img src="./iPhone12 Pro.jpg" alt="iPhone12 Pro" width="128" /></a>
