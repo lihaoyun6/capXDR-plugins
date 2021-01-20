@@ -18,12 +18,12 @@
 <a href="https://cdn.jsdelivr.net/gh/lihaoyun6/capXDR-plugins/plugins/iPad Pro K+P.zip"><img src="./iPad Pro K+P.jpg" alt="iPad Pro K+P" width="128" /></a>
 <a href="https://cdn.jsdelivr.net/gh/lihaoyun6/capXDR-plugins/plugins/iPad Pro12.9 K+P.zip"><img src="./iPad Pro12.9 K+P.jpg" alt="iPad Pro12.9 K+P" width="128" /></a>
 
-<a href="https://cdn.jsdelivr.net/gh/lihaoyun6/capXDR-plugins/plugins/iPhone SE2.zip"><img src="./iPhone SE2.jpg" alt="iPhone SE2" width="128" /></a>
-<a href="https://cdn.jsdelivr.net/gh/lihaoyun6/capXDR-plugins/plugins/iPhone12 Pro Max.zip"><img src="./iPhone12 Pro Max.jpg" alt="iPhone12 Pro Max" width="128" /></a>
-<a href="https://cdn.jsdelivr.net/gh/lihaoyun6/capXDR-plugins/plugins/iPhone12 Pro.zip"><img src="./iPhone12 Pro.jpg" alt="iPhone12 Pro" width="128" /></a>
-<a href="https://cdn.jsdelivr.net/gh/lihaoyun6/capXDR-plugins/plugins/iPhone12 mini.zip"><img src="./iPhone12 mini.jpg" alt="iPhone12 mini" width="128" /></a>
-<a href="https://cdn.jsdelivr.net/gh/lihaoyun6/capXDR-plugins/plugins/iPhone12.zip"><img src="./iPhone12.jpg" alt="iPhone12" width="128" /></a>
-<a href="https://cdn.jsdelivr.net/gh/lihaoyun6/capXDR-plugins/plugins/iWatch Series6.zip"><img src="./iWatch Series6.jpg" alt="iWatch Series6" width="128" /></a>
+<a href="https://cdn.jsdelivr.net/gh/lihaoyun6/capXDR-plugins/plugins/iPhone SE2.zip"><img src="./iPhone SE2.jpg" alt="iPhone SE2" height="128" /></a>
+<a href="https://cdn.jsdelivr.net/gh/lihaoyun6/capXDR-plugins/plugins/iPhone12 Pro Max.zip"><img src="./iPhone12 Pro Max.jpg" alt="iPhone12 Pro Max" height="128" /></a>
+<a href="https://cdn.jsdelivr.net/gh/lihaoyun6/capXDR-plugins/plugins/iPhone12 Pro.zip"><img src="./iPhone12 Pro.jpg" alt="iPhone12 Pro" height="128" /></a>
+<a href="https://cdn.jsdelivr.net/gh/lihaoyun6/capXDR-plugins/plugins/iPhone12 mini.zip"><img src="./iPhone12 mini.jpg" alt="iPhone12 mini" height="128" /></a>
+<a href="https://cdn.jsdelivr.net/gh/lihaoyun6/capXDR-plugins/plugins/iPhone12.zip"><img src="./iPhone12.jpg" alt="iPhone12" height="128" /></a>
+<a href="https://cdn.jsdelivr.net/gh/lihaoyun6/capXDR-plugins/plugins/iWatch Series6.zip"><img src="./iWatch Series6.jpg" alt="iWatch Series6" height="128" /></a>
 
 ## Dell
 <a href="https://cdn.jsdelivr.net/gh/lihaoyun6/capXDR-plugins/plugins/Dell P2715Q.zip"><img src="./Dell P2715Q.jpg" alt="Dell P2715Q" width="128" /></a>
