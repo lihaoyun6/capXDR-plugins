@@ -51,6 +51,7 @@ case $file in
 		git push origin master
 		echo "正在刷新CDN缓存..."
 		/usr/bin/curl -s https://purge.jsdelivr.net/gh/lihaoyun6/capXDR-plugins/app/ver 1>/dev/null
+		/usr/bin/curl -s https://purge.jsdelivr.net/gh/lihaoyun6/capXDR-plugins/app/md5 1>/dev/null
 		/usr/bin/curl -s https://purge.jsdelivr.net/gh/lihaoyun6/capXDR-plugins/app/catalog 1>/dev/null
 		/usr/bin/curl -s https://purge.jsdelivr.net/gh/lihaoyun6/capXDR-plugins/app/capXDR.dmg 1>/dev/null
 		;;
