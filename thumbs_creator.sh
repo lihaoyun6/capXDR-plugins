@@ -28,13 +28,14 @@ case $file in
 		git commit -m "$commit"
 		git push origin master
 		id=`git rev-parse HEAD`
+		IFS=$'\n'
 		for i in $(git show --pretty="" --name-only $id|grep -E "plugins/")
 		do
 			read -p "是否更新 ${i} 缓存?[y/n]" update
 			case $update in
 			 y|Y)
 				echo "正在刷新 ${i} 缓存..."
-				/usr/bin/curl -s https://purge.jsdelivr.net/gh/lihaoyun6/capXDR-plugins/$i 1>/dev/null
+				/usr/bin/curl -s "$(perl -MURI::Escape -e 'print uri_escape shift, , q{^A-Za-z0-9\-._~/:}' -- "https://purge.jsdelivr.net/gh/lihaoyun6/capXDR-plugins/$i")" 1>/dev/null
 				;;
 			 n|N)
 				:
