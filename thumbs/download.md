@@ -16,6 +16,7 @@
 <a href="https://cdn.jsdelivr.net/gh/lihaoyun6/capXDR-plugins/plugins/iPad Pro.zip"><img src="./iPad Pro.jpg" alt="iPad Pro" width="128" /></a>
 <a href="https://cdn.jsdelivr.net/gh/lihaoyun6/capXDR-plugins/plugins/iPad Air4.zip"><img src="./iPad Air4.jpg" alt="iPad Air4" width="128" /></a>
 <a href="https://cdn.jsdelivr.net/gh/lihaoyun6/capXDR-plugins/plugins/iPad Air4 K+P.zip"><img src="./iPad Air4 K+P.jpg" alt="iPad Air4 K+P" width="128" /></a>
+<a href="https://cdn.jsdelivr.net/gh/lihaoyun6/capXDR-plugins/plugins/iPad Air4 SK+P.zip"><img src="./iPad Air4 SK+P.jpg" alt="iPad Air4 SK+P" width="128" /></a>
 <a href="https://cdn.jsdelivr.net/gh/lihaoyun6/capXDR-plugins/plugins/iPad Pro K+P.zip"><img src="./iPad Pro K+P.jpg" alt="iPad Pro K+P" width="128" /></a>
 <a href="https://cdn.jsdelivr.net/gh/lihaoyun6/capXDR-plugins/plugins/iPad Pro12.9 K+P.zip"><img src="./iPad Pro12.9 K+P.jpg" alt="iPad Pro12.9 K+P" width="128" /></a>
 
