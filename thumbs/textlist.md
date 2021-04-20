@@ -3,6 +3,7 @@
 ****  
 
 [Apple MBA13](https://cdn.jsdelivr.net/gh/lihaoyun6/capXDR-plugins/plugins/Apple MBA13.zip)  
+[Apple iMac M1](https://cdn.jsdelivr.net/gh/lihaoyun6/capXDR-plugins/plugins/Apple iMac M1.zip)  
 [Apple iMac](https://cdn.jsdelivr.net/gh/lihaoyun6/capXDR-plugins/plugins/Apple iMac.zip)  
 [Apple rMBA13 K](https://cdn.jsdelivr.net/gh/lihaoyun6/capXDR-plugins/plugins/Apple rMBA13 K.zip)  
 [Apple rMBA13](https://cdn.jsdelivr.net/gh/lihaoyun6/capXDR-plugins/plugins/Apple rMBA13.zip)  
@@ -19,7 +20,6 @@
 [LG Ultrafine 5K](https://cdn.jsdelivr.net/gh/lihaoyun6/capXDR-plugins/plugins/LG Ultrafine 5K.zip)  
 [Lenovo Air14IML K](https://cdn.jsdelivr.net/gh/lihaoyun6/capXDR-plugins/plugins/Lenovo Air14IML K.zip)  
 [Lenovo Pro13IML K](https://cdn.jsdelivr.net/gh/lihaoyun6/capXDR-plugins/plugins/Lenovo Pro13IML K.zip)  
-[iMac M1](https://cdn.jsdelivr.net/gh/lihaoyun6/capXDR-plugins/plugins/iMac M1.zip)  
 [iPad Air4 K+P](https://cdn.jsdelivr.net/gh/lihaoyun6/capXDR-plugins/plugins/iPad Air4 K+P.zip)  
 [iPad Air4 SK+P](https://cdn.jsdelivr.net/gh/lihaoyun6/capXDR-plugins/plugins/iPad Air4 SK+P.zip)  
 [iPad Air4](https://cdn.jsdelivr.net/gh/lihaoyun6/capXDR-plugins/plugins/iPad Air4.zip)  

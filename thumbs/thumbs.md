@@ -3,6 +3,7 @@
 ****  
 
 <a href="https://cdn.jsdelivr.net/gh/lihaoyun6/capXDR-plugins/plugins/Apple MBA13.zip"><img src="./Apple MBA13.jpg" alt="Apple MBA13" width="128" /></a>
+<a href="https://cdn.jsdelivr.net/gh/lihaoyun6/capXDR-plugins/plugins/Apple iMac M1.zip"><img src="./Apple iMac M1.jpg" alt="Apple iMac M1" width="128" /></a>
 <a href="https://cdn.jsdelivr.net/gh/lihaoyun6/capXDR-plugins/plugins/Apple iMac.zip"><img src="./Apple iMac.jpg" alt="Apple iMac" width="128" /></a>
 <a href="https://cdn.jsdelivr.net/gh/lihaoyun6/capXDR-plugins/plugins/Apple rMBA13 K.zip"><img src="./Apple rMBA13 K.jpg" alt="Apple rMBA13 K" width="128" /></a>
 <a href="https://cdn.jsdelivr.net/gh/lihaoyun6/capXDR-plugins/plugins/Apple rMBA13.zip"><img src="./Apple rMBA13.jpg" alt="Apple rMBA13" width="128" /></a>
@@ -19,7 +20,6 @@
 <a href="https://cdn.jsdelivr.net/gh/lihaoyun6/capXDR-plugins/plugins/LG Ultrafine 5K.zip"><img src="./LG Ultrafine 5K.jpg" alt="LG Ultrafine 5K" width="128" /></a>
 <a href="https://cdn.jsdelivr.net/gh/lihaoyun6/capXDR-plugins/plugins/Lenovo Air14IML K.zip"><img src="./Lenovo Air14IML K.jpg" alt="Lenovo Air14IML K" width="128" /></a>
 <a href="https://cdn.jsdelivr.net/gh/lihaoyun6/capXDR-plugins/plugins/Lenovo Pro13IML K.zip"><img src="./Lenovo Pro13IML K.jpg" alt="Lenovo Pro13IML K" width="128" /></a>
-<a href="https://cdn.jsdelivr.net/gh/lihaoyun6/capXDR-plugins/plugins/iMac M1.zip"><img src="./iMac M1.jpg" alt="iMac M1" width="128" /></a>
 <a href="https://cdn.jsdelivr.net/gh/lihaoyun6/capXDR-plugins/plugins/iPad Air4 K+P.zip"><img src="./iPad Air4 K+P.jpg" alt="iPad Air4 K+P" width="128" /></a>
 <a href="https://cdn.jsdelivr.net/gh/lihaoyun6/capXDR-plugins/plugins/iPad Air4 SK+P.zip"><img src="./iPad Air4 SK+P.jpg" alt="iPad Air4 SK+P" width="128" /></a>
 <a href="https://cdn.jsdelivr.net/gh/lihaoyun6/capXDR-plugins/plugins/iPad Air4.zip"><img src="./iPad Air4.jpg" alt="iPad Air4" width="128" /></a>

@@ -3,6 +3,7 @@
 当前共有 [19] 个模板 / Here are [19] plugins now    
 ## Apple  
 <a href="https://cdn.jsdelivr.net/gh/lihaoyun6/capXDR-plugins/plugins/Apple iMac.zip"><img src="./Apple iMac.jpg" alt="Apple iMac" width="128" /></a>
+<a href="https://cdn.jsdelivr.net/gh/lihaoyun6/capXDR-plugins/plugins/Apple iMac M1.zip"><img src="./Apple iMac M1.jpg" alt="Apple iMac M1" width="128" /></a>
 
 <a href="https://cdn.jsdelivr.net/gh/lihaoyun6/capXDR-plugins/plugins/Apple MBA13.zip"><img src="./Apple MBA13.jpg" alt="Apple MBA13" width="128" /></a>
 <a href="https://cdn.jsdelivr.net/gh/lihaoyun6/capXDR-plugins/plugins/Apple rMBA13.zip"><img src="./Apple rMBA13.jpg" alt="Apple rMBA13" width="128" /></a>
