@@ -1,5 +1,5 @@
 ### 点击小图标可跳转至模板下载页面  /  Click on the thumbnail to access the plugin  
-当前共有 [29] 个模板 / Here are [29] plugins now  
+当前共有 [30] 个模板 / Here are [30] plugins now  
 ****  
 
 <a href="https://cdn.jsdelivr.net/gh/lihaoyun6/capXDR-plugins/plugins/Apple MBA13.zip"><img src="./Apple MBA13.jpg" alt="Apple MBA13" width="128" /></a>
@@ -19,6 +19,7 @@
 <a href="https://cdn.jsdelivr.net/gh/lihaoyun6/capXDR-plugins/plugins/LG Ultrafine 5K.zip"><img src="./LG Ultrafine 5K.jpg" alt="LG Ultrafine 5K" width="128" /></a>
 <a href="https://cdn.jsdelivr.net/gh/lihaoyun6/capXDR-plugins/plugins/Lenovo Air14IML K.zip"><img src="./Lenovo Air14IML K.jpg" alt="Lenovo Air14IML K" width="128" /></a>
 <a href="https://cdn.jsdelivr.net/gh/lihaoyun6/capXDR-plugins/plugins/Lenovo Pro13IML K.zip"><img src="./Lenovo Pro13IML K.jpg" alt="Lenovo Pro13IML K" width="128" /></a>
+<a href="https://cdn.jsdelivr.net/gh/lihaoyun6/capXDR-plugins/plugins/iMac M1.zip"><img src="./iMac M1.jpg" alt="iMac M1" width="128" /></a>
 <a href="https://cdn.jsdelivr.net/gh/lihaoyun6/capXDR-plugins/plugins/iPad Air4 K+P.zip"><img src="./iPad Air4 K+P.jpg" alt="iPad Air4 K+P" width="128" /></a>
 <a href="https://cdn.jsdelivr.net/gh/lihaoyun6/capXDR-plugins/plugins/iPad Air4 SK+P.zip"><img src="./iPad Air4 SK+P.jpg" alt="iPad Air4 SK+P" width="128" /></a>
 <a href="https://cdn.jsdelivr.net/gh/lihaoyun6/capXDR-plugins/plugins/iPad Air4.zip"><img src="./iPad Air4.jpg" alt="iPad Air4" width="128" /></a>

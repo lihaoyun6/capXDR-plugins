@@ -6,6 +6,6 @@ Plugins for capXDR.
 
 [预览/Previews](./thumbs/thumbs.md)  
 [预览(纯文字)/Previews(text only)](./thumbs/textlist.md)  
-<img src="donate/weixin.png" alt="weixin" width="200" /><img src="donate/zhifubao.png" alt="zhifubao" width="200" /><img src="donate/paypal.png" alt="paypal" width="200" />
+<img src="donate/weixin.jpg" alt="weixin" width="200" /><img src="donate/zhifubao.jpg" alt="zhifubao" width="200" /><img src="donate/paypal.jpg" alt="paypal" width="200" />
 
-当前共有 [29] 个模板 / Here are [29] plugins now
+当前共有 [30] 个模板 / Here are [30] plugins now

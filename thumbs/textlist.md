@@ -1,5 +1,5 @@
 ### 点击文字链接可跳转至模板下载页面  /  Click on the link to access the plugin  
-当前共有 [29] 个模板 / Here are [29] plugins now  
+当前共有 [30] 个模板 / Here are [30] plugins now  
 ****  
 
 [Apple MBA13](https://cdn.jsdelivr.net/gh/lihaoyun6/capXDR-plugins/plugins/Apple MBA13.zip)  
@@ -19,6 +19,7 @@
 [LG Ultrafine 5K](https://cdn.jsdelivr.net/gh/lihaoyun6/capXDR-plugins/plugins/LG Ultrafine 5K.zip)  
 [Lenovo Air14IML K](https://cdn.jsdelivr.net/gh/lihaoyun6/capXDR-plugins/plugins/Lenovo Air14IML K.zip)  
 [Lenovo Pro13IML K](https://cdn.jsdelivr.net/gh/lihaoyun6/capXDR-plugins/plugins/Lenovo Pro13IML K.zip)  
+[iMac M1](https://cdn.jsdelivr.net/gh/lihaoyun6/capXDR-plugins/plugins/iMac M1.zip)  
 [iPad Air4 K+P](https://cdn.jsdelivr.net/gh/lihaoyun6/capXDR-plugins/plugins/iPad Air4 K+P.zip)  
 [iPad Air4 SK+P](https://cdn.jsdelivr.net/gh/lihaoyun6/capXDR-plugins/plugins/iPad Air4 SK+P.zip)  
 [iPad Air4](https://cdn.jsdelivr.net/gh/lihaoyun6/capXDR-plugins/plugins/iPad Air4.zip)  
