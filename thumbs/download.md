@@ -10,6 +10,7 @@
 <a href="https://cdn.jsdelivr.net/gh/lihaoyun6/capXDR-plugins/plugins/Apple rMBA13 K.zip"><img src="./Apple rMBA13 K.jpg" alt="Apple rMBA13 K" width="128" /></a>
 
 <a href="https://cdn.jsdelivr.net/gh/lihaoyun6/capXDR-plugins/plugins/Apple rMBP16.zip"><img src="./Apple rMBP16.jpg" alt="Apple rMBP16" width="128" /></a>
+<a href="https://cdn.jsdelivr.net/gh/lihaoyun6/capXDR-plugins/plugins/Apple rMBP16 2021.zip"><img src="./Apple rMBP16 2021.jpg" alt="Apple rMBP16 2021" width="128" /></a>
 <a href="https://cdn.jsdelivr.net/gh/lihaoyun6/capXDR-plugins/plugins/Apple rMBP16 K.zip"><img src="./Apple rMBP16 K.jpg" alt="Apple rMBP16 K" width="128" /></a>
 <a href="https://cdn.jsdelivr.net/gh/lihaoyun6/capXDR-plugins/plugins/Apple rMBP16 K+T.zip"><img src="./Apple rMBP16 K+T.jpg" alt="Apple rMBP16 K+T" width="128" /></a>
 <a href="https://cdn.jsdelivr.net/gh/lihaoyun6/capXDR-plugins/plugins/Apple rMBP16 K(anim).zip"><img src="./Apple rMBP16 K(anim).jpg" alt="Apple rMBP16 K(anim)" width="128" /></a>
