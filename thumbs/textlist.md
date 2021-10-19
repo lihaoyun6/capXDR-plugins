@@ -1,5 +1,5 @@
 ### 点击文字链接可跳转至模板下载页面  /  Click on the link to access the plugin  
-当前共有 [30] 个模板 / Here are [30] plugins now  
+当前共有 [31] 个模板 / Here are [31] plugins now  
 ****  
 
 [Apple MBA13](https://cdn.jsdelivr.net/gh/lihaoyun6/capXDR-plugins/plugins/Apple MBA13.zip)  
@@ -7,6 +7,7 @@
 [Apple iMac](https://cdn.jsdelivr.net/gh/lihaoyun6/capXDR-plugins/plugins/Apple iMac.zip)  
 [Apple rMBA13 K](https://cdn.jsdelivr.net/gh/lihaoyun6/capXDR-plugins/plugins/Apple rMBA13 K.zip)  
 [Apple rMBA13](https://cdn.jsdelivr.net/gh/lihaoyun6/capXDR-plugins/plugins/Apple rMBA13.zip)  
+[Apple rMBP16 2021](https://cdn.jsdelivr.net/gh/lihaoyun6/capXDR-plugins/plugins/Apple rMBP16 2021.zip)  
 [Apple rMBP16 K(anim)](https://cdn.jsdelivr.net/gh/lihaoyun6/capXDR-plugins/plugins/Apple rMBP16 K(anim).zip)  
 [Apple rMBP16 K+T](https://cdn.jsdelivr.net/gh/lihaoyun6/capXDR-plugins/plugins/Apple rMBP16 K+T.zip)  
 [Apple rMBP16 K](https://cdn.jsdelivr.net/gh/lihaoyun6/capXDR-plugins/plugins/Apple rMBP16 K.zip)  

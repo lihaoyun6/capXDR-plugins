@@ -15,7 +15,7 @@ case $file in
 		do
 			sips -Z 256 -s format jpeg $i --out ../thumbs/${i%.*}.jpg
 			pluginName=${i%.*}
-			echo '<a href="https://cdn.jsdelivr.net/gh/lihaoyun6/capXDR-plugins/plugins/'$pluginName'.zip"><img src="https://cdn.jsdelivr.net/gh/lihaoyun6/capXDR-plugins/thumbs/'$pluginName'.jpg" alt="'$pluginName'" width="128" /></a>' >> ../thumbs/thumbs.md
+			echo '<a href="https://cdn.jsdelivr.net/gh/lihaoyun6/capXDR-plugins/plugins/'$pluginName'.zip"><img src="./'$pluginName'.jpg" alt="'$pluginName'" width="128" /></a>' >> ../thumbs/thumbs.md
 			echo '['$pluginName'](https://cdn.jsdelivr.net/gh/lihaoyun6/capXDR-plugins/plugins/'$pluginName'.zip)  ' >> ../thumbs/textlist.md
 		done
 		cd ..
